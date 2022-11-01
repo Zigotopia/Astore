@@ -1,0 +1,19 @@
+.cabecalho{
+    display: flex;
+    align-items: center;
+    ;
+    
+
+
+}
+
+.menu__link{
+    padding: 0 1rem;
+    color: #333333;
+    font-size: 1.4rem;
+    
+}
+
+.menu__link:hover , .ativo{
+    border-bottom: 3px solid rgb(72, 72, 172);
+}
